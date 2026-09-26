@@ -9,7 +9,7 @@ elements.blue_meat = {
     tempHigh: 120,
     stateHigh: "cooked_blue_meat",
     tempHigh: 480,
-    stateHigh: "ash";
+    stateHigh: "ash",
     tempLow: 0,
     stateLow: "ice",
 }
