@@ -6,4 +6,10 @@ elements.blue_meat = {
     category: "food",
     state: "solid",
     density: 1050,
+    tempHigh: 120,
+    stateHigh: "cooked_blue_meat",
+    tempHigh: 480,
+    stateHigh: "ash";
+    tempLow: 0,
+    stateLow: "ice",
 }
